@@ -224,7 +224,7 @@ a {
 
 .home {
   min-height: 102.8vh;
-  background: url(../images/home.jpg) no-repeat;
+  background: url(images/home.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   margin-top: -14.5rem;
